@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d3 20150301//EN"  "JATS-archivearticle1.dtd"><article dtd-version="1.1d3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">eLife</journal-id>
+            <journal-id journal-id-type="publisher-id">eLife</journal-id>
+            <journal-title-group>
+                <journal-title>eLife</journal-title>
+            </journal-title-group>
+            <issn publication-format="electronic">2050-084X</issn>
+            <publisher>
+                <publisher-name>eLife Sciences Publications, Ltd</publisher-name>
+            </publisher>
+        </journal-meta>
+           <article-meta>	
+                <article-id pub-id-type="publisher-id">00666</article-id>	
+                <article-id pub-id-type="doi">10.7554/eLife.00666</article-id>	
+                <article-categories>	
+                    <subj-group subj-group-type="display-channel">
+                        <subject>Research article</subject>
+                    </subj-group>
+                    <subj-group subj-group-type="heading">
+                        <subject>Cell biology</subject>
+                    </subj-group>
+                </article-categories>	
+                <title-group>	
+                    <article-title>Bacterial regulation of colony development in the closest living relatives of animals</article-title>	
+                </title-group>
+        <contrib-group>
+            <contrib contrib-type="author" id="author-00000">
+                <name>
+                    <surname>Harrison</surname>
+                    <given-names>Melissa</given-names>
+                </name>
+                <xref ref-type="aff" rid="aff1"/>
+                <xref ref-type="other" rid="par-1"/>
+                <xref ref-type="fn" rid="conf1"/>
+                <xref ref-type="fn" rid="con1"/>
+            </contrib>
+            </contrib-group>
+        <aff id="aff1"><institution content-type="dept">Department of Production</institution>,
+            <institution>eLife</institution>,
+            <addr-line><named-content content-type="city">Cambridge</named-content></addr-line>,
+            <country>United Kingdom</country>
+        </aff>
+        <funding-group>
+            <award-group id="par-1">
+                <funding-source>
+                    <institution-wrap>
+                        <institution>Wellcome</institution>
+                    </institution-wrap>
+                </funding-source>
+                <principal-award-recipient>
+                    <name>
+                        <surname>Harrison</surname>
+                        <given-names>Melissa</given-names>
+                    </name>
+                </principal-award-recipient>
+            </award-group>
+        </funding-group>  
+      </article-meta>
+    </front>
+    <body> </body>
+    <back>
+        <sec sec-type="additional-information">
+            <fn-group content-type="competing-interest">
+                <title>Competing interests</title>
+                <fn fn-type="conflict" id="conf1">
+                    <p>The author has declared that no competing interests exist</p>
+                </fn>
+            </fn-group>
+            <fn-group content-type="author-contribution">
+            <title>Author contribution</title>
+            <fn fn-type="con" id="con1">
+                <p>Melissa Harrison, wrote this XML example</p>
+            </fn>
+            </fn-group>    
+                </sec>
+        <ref-list>
+            
+            <ref id="bib1">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Roy</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Wapinski</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Pfiffner</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>French</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Socha</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Konieczka</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Regev</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2013">2013</year>
+                    <article-title>Arboretum: reconstruction and analysis of the evolutionary
+                        history of condition-specific transcriptional programs</article-title>
+                    <source>Genome Res</source>
+                    <comment>in press</comment>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib2">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Aivazian</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Serrano</surname>
+                            <given-names>RL</given-names>
+                        </name>
+                        <name>
+                            <surname>Pfeffer</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2006">2006</year>
+                    <article-title>TIP47 is a key effector for Rab9 localization</article-title>
+                    <source>The Journal of Cell Biology</source>
+                    <volume>173</volume>
+                    <fpage>917</fpage>
+                    <lpage>926</lpage>
+                    <pub-id pub-id-type="doi">10.1083/jcb.200510010</pub-id>
+                    <pub-id pub-id-type="pmid">16769818</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib3">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Wolski</surname>
+                            <given-names>SC</given-names>
+                        </name>
+                        <name>
+                            <surname>Kuper</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Hanzelmann</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Truglio</surname>
+                            <given-names>JJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Croteau</surname>
+                            <given-names>DL</given-names>
+                        </name>
+                        <name>
+                            <surname>Van Houten</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year iso-8601-date="2008">2008</year>
+                    <article-title>Crystal structure of the FeS cluster-containing nucleotide
+                        excision repair helicase XPD</article-title>
+                    <source>PLoS Biol</source>
+                    <volume>6</volume>
+                    <elocation-id>e149</elocation-id>
+                    <pub-id pub-id-type="doi">10.1371/journal.pbio.0060149</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib4">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>McQuilton</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>St Pierre</surname>
+                            <given-names>SE</given-names>
+                        </name>
+                        <name>
+                            <surname>Thurmond</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <collab>FlyBase Consortium</collab>
+                    </person-group>
+                    <year iso-8601-date="2012">2012</year>
+                    <article-title>FlyBase 101—the basics of navigating FlyBase</article-title>
+                    <source>Nucleic Acids Res</source>
+                    <volume>40</volume>
+                    <fpage>D706</fpage>
+                    <lpage>D714</lpage>
+                    <pub-id pub-id-type="doi">10.1093/nar/gkr1030</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib5">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gall</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Treuting</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Elkon</surname>
+                            <given-names>KB</given-names>
+                        </name>
+                        <name>
+                            <surname>Loo</surname>
+                            <given-names>YM</given-names>
+                        </name>
+                        <name>
+                            <surname>Gale</surname>
+                            <given-names>M</given-names>
+                            <suffix>Jnr</suffix>
+                        </name>
+                        <name>
+                            <surname>Barber</surname>
+                            <given-names>GN</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year iso-8601-date="2012">2012</year>
+                    <article-title>Autoimmunity initiates in nonhematopoietic cells and progresses
+                        via lymphocytes in an interferon-dependent autoimmune
+                        disease</article-title>
+                    <source>Immunity</source>
+                    <volume>36</volume>
+                    <fpage>120</fpage>
+                    <lpage>131</lpage>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib6">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Brettar</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Christen</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Hofle</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2004">2004a</year>
+                    <article-title>Aquiflexum balticum gen. nov., sp nov., a novel marine bacterium
+                        of the Cytophaga-Flavobacterium-Bacteroides group isolated from surface
+                        water of the central Baltic Sea</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>54</volume>
+                    <fpage>2335</fpage>
+                    <lpage>2341</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.63255-0</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib7">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Brettar</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Christen</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Hofle</surname>
+                            <given-names>MG</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2004">2004b</year>
+                    <article-title>Belliella baltica gen. nov., sp. nov., a novel marine bacterium
+                        of the Cytophaga-Flavobacterium-Bacteroides group isolated from surface
+                        water of the central Baltic Sea</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>54</volume>
+                    <fpage>65</fpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.02752-0</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib8">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kok</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Ay</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Li</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Arnosti</surname>
+                            <given-names>DN</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2015">2015</year>
+                    <data-title>Data from: Genome-wide errant targeting by Hairy</data-title>
+                    <source>Dryad Digital Repository</source>
+                    <pub-id assigning-authority="Dryad Digital Repository" pub-id-type="doi" xlink:href="http://datadryad.org/resource/doi:10.5061/dryad.cv323">10.5061/dryad.cv323</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib9">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Du</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Johnson</surname>
+                            <given-names>LM</given-names>
+                        </name>
+                        <name>
+                            <surname>Groth</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Feng</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Hale</surname>
+                            <given-names>CJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Li</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Vashisht</surname>
+                            <given-names>AA</given-names>
+                        </name>
+                        <name>
+                            <surname>Gallego-Bartolome</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Wohlschlegel</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Patel</surname>
+                            <given-names>DJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Jacobsen</surname>
+                            <given-names>SE</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2014">2014</year>
+                    <data-title>Crystal structure of KRYPTONITE in complex with mCHH DNA and
+                        SAH</data-title>
+                    <source>RCSB Protein Data Bank</source>
+                    <pub-id assigning-authority="RCSB Protein Data Bank" pub-id-type="doi">10.2210/pdb4qen/pdb</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib10">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Radoshevich</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Impens</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Ribet</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Quereda</surname>
+                            <given-names>JJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Nam Tham</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Nahori</surname>
+                            <given-names>MA</given-names>
+                        </name>
+                        <name>
+                            <surname>Bierne</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Dussurget</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Pizarro-Cerdá</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Knobeloch</surname>
+                            <given-names>KP</given-names>
+                        </name>
+                        <name>
+                            <surname>Cossart</surname>
+                            <given-names>P</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2015">2015a</year>
+                    <data-title>ISG15 counteracts <italic>Listeria monocytogenes</italic>
+                        infection</data-title>
+                    <source>ProteomeXchange</source>
+                    <pub-id pub-id-type="archive Identifier" xlink:href="http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD001805">PXD001805</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib11">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Radoshevich</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Impens</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Ribet</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Quereda</surname>
+                            <given-names>JJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Nam Tham</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>Nahori</surname>
+                            <given-names>MA</given-names>
+                        </name>
+                        <name>
+                            <surname>Bierne</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Dussurget</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Pizarro-Cerdá</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Knobeloch</surname>
+                            <given-names>KP</given-names>
+                        </name>
+                        <name>
+                            <surname>Cossart</surname>
+                            <given-names>P</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2015">2015b</year>
+                    <article-title>Transcription profiling by high throughput sequencing of LoVo
+                        cells infected with Listeria for 24 hr compared to uninfected
+                        cells</article-title>
+                    <source>ArrayExpress</source>
+                    <pub-id pub-id-type="accession" xlink:href="https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3649/">E-MTAB-3649</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib12">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bouveret</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Waardenberg</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Schonrock</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Ramialison</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Doan</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <name>
+                            <surname>de Jong</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Bondue</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Kaur</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Mohamed</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Fonoudi</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Chen</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Wouters</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Bhattacharya</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname> Plachta</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Dunwoodie</surname>
+                            <given-names>SL</given-names>
+                        </name>
+                        <name>
+                            <surname>Chapman</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Blanpain</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Harvey</surname>
+                            <given-names>RP</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2015">2015</year>
+                    <data-title>NKX2-5 mutations causative for congenital heart disease retain
+                        functionality and are directed to hundreds of targets</data-title>
+                    <source>NCBI Gene Expression Omnibus</source>
+                    <pub-id assigning-authority="NCBI" pub-id-type="accession" xlink:href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44902">GSE44902</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib13">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gavrilov</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Harvey</surname>
+                            <given-names>RP</given-names>
+                        </name>
+                        <name>
+                            <surname>Papaioannou</surname>
+                            <given-names>VE</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2014">2014</year>
+                    <data-title>Mus musculus T-box 2 (Tbx2), mRNA</data-title>
+                    <source>NCBI Nucleotide</source>
+                    <pub-id assigning-authority="NCBI" pub-id-type="accession" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/120407038">NM_009324</pub-id>
+                    <version designator="NM_009324.2">NM_009324.2</version>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib14">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hoang</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Swift</surname>
+                            <given-names>GH</given-names>
+                        </name>
+                        <name>
+                            <surname>Azevedo-Pouly</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>MacDonald</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2015">2015</year>
+                    <data-title>Effects on the transcriptome of adult mouse pancreas (principally
+                        acinar cells) by the inactivation of the Ptf1a gene in vivo</data-title>
+                    <source>NCBI Gene Expression Omnibus</source>
+                    <pub-id assigning-authority="NCBI" pub-id-type="accession" xlink:href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70542">GSE70542</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib15">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <collab>The <italic>Shigella</italic> Genome Sequencing Consortium</collab>
+                    </person-group>
+                    <year iso-8601-date="2015">2015a</year>
+                    <data-title>Global Diversity of Shigella Species</data-title>
+                    <source>NCBI BioProject</source>
+                    <pub-id assigning-authority="NCBI" pub-id-type="accession" xlink:href="http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB2846">PRJEB2846</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="bib16">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <collab>The <italic>Shigella</italic> Genome Sequencing Consortium</collab>
+                    </person-group>
+                    <year iso-8601-date="2015">2015b</year>
+                    <data-title>Shigella sonnei and flexneri from around the world</data-title>
+                    <source>NCBI BioProject</source>
+                    <pub-id assigning-authority="NCBI" pub-id-type="accession" xlink:href="http://www.ncbi.nlm.nih.gov/bioproject/204320">PRJEB2460</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="bib17">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <collab>The <italic>Shigella</italic> Genome Sequencing Consortium</collab>
+                    </person-group>
+                    <year iso-8601-date="2015">2015c</year>
+                    <data-title>Shigella flexneri from around the world</data-title>
+                    <source>NCBI BioProject </source>
+                    <pub-id assigning-authority="NCBI" pub-id-type="accession" xlink:href="http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJEB2542">PRJEB2542</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib18">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Staab</surname>
+                            <given-names>TA</given-names>
+                        </name>
+                        <name>
+                            <surname>Griffen</surname>
+                            <given-names>TC</given-names>
+                        </name>
+                        <name>
+                            <surname>Corcoran</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Evgrafov</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Knowles</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Sieburth</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2013">2013</year>
+                    <data-title>SKN-1 from the JASPAR CORE database</data-title>
+                    <source>JASPAR</source>
+                    <pub-id pub-id-type="art-access-id" xlink:href="http://jaspar.genereg.net/cgi-bin/jaspar_db.pl">MA0547.1</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib19">
+                <element-citation publication-type="data">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Zhong</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Snyder</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Slightam</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Kim</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Murray</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Waterston</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>Gerstein</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Niu</surname>
+                            <given-names>W</given-names>
+                        </name>
+                        <name>
+                            <surname>Janette</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Raha</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Agarwal</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Reinke</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Sarov</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Hyman</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2013">2013</year>
+                    <data-title>ChIP-Seq Identification of C. elegans TF Binding Sites</data-title>
+                    <source>modMine</source>
+                    <pub-id pub-id-type="archive">modENCODE_3369</pub-id>
+                    <comment>
+                        <ext-link ext-link-type="uri" xlink:href="http://intermine.modencode.org/release-33/report.do?id=77000379">http://intermine.modencode.org/release-33/report.do;jsessionid=03E0333698FA9A66AF60C7AC0D64E8F3?id=77000379#other</ext-link>
+                    </comment>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib20">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Horne</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Page</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2008">2008</year>
+                    <source>Integrated pest management for crops and pastures</source>
+                    <publisher-name>Landlinks Press</publisher-name>
+                    <publisher-loc>Victoria</publisher-loc>
+                    <pub-id pub-id-type="isbn">9780643092570</pub-id>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib21">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Turlings</surname>
+                            <given-names>TCJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Wäckers</surname>
+                            <given-names>FL</given-names>
+                        </name>
+                    </person-group>
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Cardé</surname>
+                            <given-names>RT</given-names>
+                        </name>
+                        <name>
+                            <surname>Millar</surname>
+                            <given-names>JG</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2004">2004</year>
+                    <source>Advances in insect chemical ecology</source>
+                    <chapter-title>Recruitment of predators and parasitoids by herbivore-injured
+                        plants</chapter-title>
+                    <publisher-name>Cambridge University Press</publisher-name>
+                    <publisher-loc>Cambridge</publisher-loc>
+                    <fpage>21</fpage>
+                    <lpage>75</lpage>
+                </element-citation>
+            </ref>
+            
+                        <ref id="bib22">
+               <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Coyne</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Orr</surname>
+                            <given-names>HA</given-names>
+                        </name>
+                    </person-group>
+                   <person-group person-group-type="editor">
+                       <name>
+                           <surname>Otte</surname>
+                           <given-names>D</given-names>
+                       </name>
+                       <name>
+                           <surname>Endler</surname>
+                           <given-names>JA</given-names>
+                       </name>
+                   </person-group>
+                   <year iso-8601-date="1989">1989</year>
+                    <chapter-title>Two rules of speciation</chapter-title>
+                    <source>Speciation and its consequences</source>
+                    <publisher-loc>Sunderland, MA</publisher-loc>
+                    <publisher-name>Sinauer Associates</publisher-name>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib23">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Cardé</surname>
+                            <given-names>RT</given-names>
+                        </name>
+                        <name>
+                            <surname>Millar</surname>
+                            <given-names>JG</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="2004">2004</year>
+                    <source>Advances in insect chemical ecology</source>
+                    <publisher-name>Cambridge University Press</publisher-name>
+                    <publisher-loc>Cambridge</publisher-loc>
+                </element-citation>
+            </ref>
+            
+            <ref id="bib24">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Koch</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    <year iso-8601-date="1959">1959</year>
+                    <volume>3: Formulations of the Person and the Social Context</volume>
+                    <source>Psychology A Study Of A Science</source>
+                    <publisher-name>Mcgraw-Hill Book Company</publisher-name>
+               </element-citation>
+            </ref>
+        
+        <ref id="bib25">
+            <element-citation publication-type="book">
+                <person-group person-group-type="editor">
+                    <name>
+                        <surname>Chmeil</surname>
+                        <given-names>N</given-names>
+                    </name>
+                </person-group>
+                <year iso-8601-date="2008">2008</year>
+                <edition>2</edition>
+                <source>An Introduction to Work and Organizational Psychology: A European Perspective</source>
+                <publisher-name>Wiley-Blackwell</publisher-name>
+            </element-citation>
+        </ref>
+        </ref-list>
+    </back>
+</article>
